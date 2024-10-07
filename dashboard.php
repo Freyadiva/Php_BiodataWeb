@@ -13,17 +13,17 @@
     <h1 class="mb-4">Dashboard</h1>
 
     <!-- Kode ini dapat mengarahkan user ke tampilan lain -->
-
+   
     <!-- Menampilkan link sebagai list menggunakan Bootstrap -->
     <ul class="list-group">
         <li class="list-group-item">
             <a href="https://www.w3schools.com/html/default.asp" class="text-decoration-none">Home</a>
         </li>
         <li class="list-group-item">
-            <a href="./kontak.php" class="text-decoration-none">Kontak</a>
+            <a href="C:\laragon\www\Web-Biodata\kontak kami.php" class="text-decoration-none">Kontak</a>
         </li>
         <li class="list-group-item">
-            <a href="./biodata.php" class="text-decoration-none">Biodata</a>
+            <a href="C:\laragon\www\Web-Biodata\biodata.php" class="text-decoration-none">Biodata</a>
         </li>
     </ul>
 </div>
